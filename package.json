@@ -1,0 +1,20 @@
+{
+  "name": "desafio_criptografia_julio_cesar",
+  "version": "1.0.0",
+  "description": "Desafio criptografia de Júlio César",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GuilhermePolido/desafio_criptografia_julio_cesar.git"
+  },
+  "author": "Guilherme Anderzen Polido <https://github.com/GuilhermePolido>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GuilhermePolido/desafio_criptografia_julio_cesar/issues"
+  },
+  "homepage": "https://github.com/GuilhermePolido/desafio_criptografia_julio_cesar#readme",
+  "dependencies": {}
+}
