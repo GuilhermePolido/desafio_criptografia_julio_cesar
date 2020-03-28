@@ -16,5 +16,8 @@
     "url": "https://github.com/GuilhermePolido/desafio_criptografia_julio_cesar/issues"
   },
   "homepage": "https://github.com/GuilhermePolido/desafio_criptografia_julio_cesar#readme",
-  "dependencies": {}
+  "dependencies": {
+    "axios": "^0.19.2",
+    "fs": "0.0.1-security"
+  }
 }
